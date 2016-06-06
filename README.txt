@@ -8,3 +8,8 @@
 
 4) Скормить файл из папки xml exacomp_data.xml этому блоку
 
+Что должно получиться:https://www.youtube.com/watch?v=33vePjjo50U
+
+
+Все видео-ролики: https://www.youtube.com/user/vvvvvvvvvvinboxru/videos
+
